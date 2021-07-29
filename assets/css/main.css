@@ -27,7 +27,7 @@ ul{
 
 .header{
     height: 520px;
-    background: url(/assets/image/NG-en-20210502-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+    background: url(../image/NG-en-20210502-popsignuptwoweeks-perspective_alpha_website_small.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -241,7 +241,7 @@ h3{
 }
 
 .cover-1{
-    background-image: url(/assets/image/download\ \(7\).jpeg);
+    background-image: url(../image/download\ \(7\).jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -250,7 +250,7 @@ h3{
 }
 
 .cover-2{
-    background-image: url(/assets/image/images\ \(18\).jpeg);
+    background-image: url(../image/images\ \(18\).jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -259,7 +259,7 @@ h3{
 }
 
 .cover-3{
-    background-image: url(/assets/image/images\ \(19\).jpeg);
+    background-image: url(../image/images\ \(19\).jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -268,7 +268,7 @@ h3{
 }
 
 .cover-4{
-    background-image: url(/assets/image/images\ \(16\).jpeg);
+    background-image: url(../image/images\ \(16\).jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -306,7 +306,7 @@ h3{
 }
 
 .live-sports{
-    background: url(/assets/image/images\ \(9\).jpeg);
+    background: url(../image/images\ \(9\).jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
