@@ -56,7 +56,8 @@ ul{
     align-items: center;
     position: absolute;
     top: 80px;
-    margin-left: 420px;
+    width: 100%;
+    margin: auto;
 }
 
 .header .header-content h4{
